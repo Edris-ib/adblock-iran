@@ -168,3 +168,4 @@ xar-pay.ml
 yasell.biz
 yektanet.com
 zarpop.com
+beta.kaprila.com
